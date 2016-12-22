@@ -5,8 +5,8 @@ module.exports = {
     connectionString: 'mongodb://user:pass@localhost:27017/waze?authSource=admin',
   },
   gmaps: {
-    clientId: '';
-    privateKey: '';
+    clientId: '',
+    privateKey: ''
   },
   logs: {
     console: './logs.log',
