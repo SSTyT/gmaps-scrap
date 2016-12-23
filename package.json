@@ -21,6 +21,7 @@
     "mongoose": "^4.7.4",
     "q": "^1.4.1",
     "request": "^2.79.0",
+    "semaphore": "^1.0.5",
     "urlsafe-base64": "^1.0.0",
     "winston": "^2.3.0"
   }
